@@ -67,7 +67,7 @@ This results in creation of Full length non-concatemer (FLNC) reads
 isoseq refine -j 60 --require-polya fl_reads.barcoded_IsoSeq_adapter_ID.bam barcoded_IsoSeq_primers.fa flnc_require-polya.bam
 ```
 
-### 7. Oarfish**: transcript quantification from long-read RNA-seq data**
+### 7. Oarfish: transcript quantification from long-read RNA-seq data
 
 
 Use `Oarfish` to get transcript counts
