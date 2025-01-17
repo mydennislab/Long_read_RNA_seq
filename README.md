@@ -72,7 +72,7 @@ isoseq refine -j 60 --require-polya fl_reads.barcoded_IsoSeq_adapter_ID.bam barc
 
 Use `Oarfish` to get transcript counts
 
-Oarfish docs: <https://github.com/COMBINE-lab/oarfish>
+**Oarfish docs: <https://github.com/COMBINE-lab/oarfish>**
 
 Check oarfish flags:
 
