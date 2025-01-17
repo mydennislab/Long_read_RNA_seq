@@ -4,8 +4,9 @@
 ### 1. Download the `yml` file and create the conda environment
 
 ```         
-wget Kinnex_env.yml
-conda env create -f Kinnex_env.yml
+wget https://raw.githubusercontent.com/mydennislab/Long_read_RNA_seq/refs/heads/main/Long_read_RNA_seq_env.yml
+conda env create -f Long_read_RNA_seq_env.yml
+conda activate Long_read_RNA_seq_env
 ```
 
 **Isoseq pipeline documented here: <https://isoseq.how/clustering/cli-workflow.html>**
