@@ -1,4 +1,4 @@
-name: Kinnex_env
+name: Long_read_RNA_seq_env
 channels:
   - conda-forge
   - bioconda
