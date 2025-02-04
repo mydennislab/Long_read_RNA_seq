@@ -83,7 +83,7 @@ oarfish -h
 Run Oarfish. Oarfish will take the FLNC reads as input as well as a transcriptome
 
 ```         
-oarfish --verbose --output <output_folder/output_header> -j <threads> --reads flnc_require-polya.bam --reference <transcriptome_ref.fa> --index-out <folder_with_transcriptome_ref.fa> --seq-tech <ont-cdna, ont-drna, pac-bio, pac-bio-hifi>
+oarfish --verbose --output <output_folder/output_header> -j <threads> --reads flnc_require-polya.fastq --reference <transcriptome_ref.fa> --index-out <folder_with_transcriptome_ref.fa> --seq-tech <ont-cdna, ont-drna, pac-bio, pac-bio-hifi>
 ```
 
 Oarfish output should be a folder with these files:
